@@ -1,4 +1,3 @@
-package com.luv2code.jsf.counter;
 
 import java.util.HashSet;
 import java.util.Set;
