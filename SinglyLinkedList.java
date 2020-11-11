@@ -1,3 +1,5 @@
+package com.joshuainchilliwack.java.algorithm;
+
 public class SinglyLinkedList {
 
 	private Node head;
